@@ -1,0 +1,52 @@
+/*====================================
+CSS
+====================================*/ 
+
+body {
+	background-image: url(../images/img4Main.jpg);
+	background-size: ;
+	color: #fff;
+	margin: 0px auto;
+	font-family:'aleo-regular-webfont';
+
+}
+
+/*====================================
+form
+====================================*/
+form{
+	clear: both;
+	/*background-color:rgba(1, 61, 215, 0.2);*/
+	border-radius: 10px; 
+	width:25%;
+	margin-top: 250px;
+	font-family:'aleo-regular-webfont';
+} 
+ form legend
+{
+	color:silver;
+	width: 70%;
+}
+
+
+input[type="password"] {
+	width: 80%;
+	-webkit-text-security: square; 
+}
+
+input[type="text"] {
+	width: 80%;
+}
+
+/*====================================
+button
+====================================*/ 
+#logIn{
+	padding: 7px;
+	font-size: 16px;
+	margin-bottom: 5px;
+	width: 20%;
+	background-color:rgba(252, 82, 74, 0.8);
+	border: none;
+}
+

@@ -1,0 +1,281 @@
+Aptitude Test CBT 
+
+Instruction:
+
+Total number of questions : 20.
+Time alloted : 30 minutes.
+Each question carry 1 mark, no negative marks.
+DO NOT refresh the page.
+All the best :-).
+
+Questions:
+
+Another Set of Questions
+Direction (for Q.No. 1):
+Each of these questions is followed by three statements. You have to study the question and all the three statements given to decide whether any information provided in the statement(s) is redundant and can be dispensed with while answering the given question.
+1.	
+What is the area of the given rectangle?
+I. 
+Perimeter of the rectangle is 60 cm.
+II. 
+Breadth of the rectangle is 12 cm.
+ III. 
+Sum of two adjacent sides is 30 cm.
+	A.	
+I only
+	B.	
+II only
+	C.	
+I and II only
+	D.	
+II and III only
+	E.	
+II and either I or III Correct Answer: Option E
+[#]
+2.	
+If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?
+	A.	
+Sunday
+	B.	
+Saturday
+	C.	
+Tuesday
+	D.	
+Wednesday Correct Answer: Option A
+[#]
+3.	
+Which of the following is not a leap year?
+	A.	
+700
+	B.	
+800
+	C.	
+1200
+	D.	
+2000 Correct Answer: Option A
+[#]
+4.	
+It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?
+	A.	
+Sunday
+	B.	
+Saturday
+	C.	
+Friday
+	D.	
+Wednesday     Correct Answer: Option C
+[#]
+5.	
+A can do a piece of work in 4 hours; B and C together can do it in 3 hours, while A and C together can do it in 2 hours. How long will B alone take to do it?
+	A.	
+8 hours
+	B.	
+10 hours
+	C.	
+12 hours
+	D.	
+24 hours     Correct Answer: Option C
+[#]  
+6.	
+A grocer has a sale of Rs. 6435, Rs. 6927, Rs. 6855, Rs. 7230 and Rs. 6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of Rs. 6500?
+	A.	
+Rs. 4991
+	B.	
+Rs. 5991
+	C.	
+Rs. 6001
+	D.	
+Rs. 6991    Correct Answer: Option A
+[#]
+7.	
+In how many different ways can the letters of the word 'CORPORATION' be arranged so that the vowels always come together?
+	A.	
+810
+	B.	
+1440
+	C.	
+2880
+	D.	
+50400
+	E.	
+5760      Correct Answer: Option D
+[#]
+Direction (for Q.No. 8):
+In each of the following questions, a question is asked and is followed by three statements. While answering the question, you may or may not require the data provided in all the statements. You have to read the question and the three statements and then decide whether the question can be answered with any one or two of the statements or all the three statements are required to answer the question. The answer number bearing the statements, which can be dispensed with, if any, while answering the question is your answer.
+8.	
+Mr. Gupta borrowed a sum of money on compound interest. What will be the amount to be repaid if he is repaying the entire amount at the end of 2 years?
+I. 
+The rate of interest is 5 p.c.p.a.
+II. 
+Simple interest fetched on the same amount in one year is Rs. 600.
+ III. 
+The amount borrowed is 10 times the simple interest in 2 years.
+	A.	
+I only
+	B.	
+III only
+	C.	
+I or II only
+	D.	
+II and Either I or III only
+	E.	
+All I, II and III are required   Correct Answer: Option D
+[#]
+9.	
+Two tailors X and Y are paid a total of Rs. 550 per week by their employer. If X is paid 120 percent of the sum paid to Y, how much is Y paid per week?
+	A.	
+Rs. 200
+	B.	
+Rs. 250
+	C.	
+Rs. 300
+	D.	
+None of these    Correct Answer: Option B
+[#]
+10.	
+When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?
+	A.	
+Rs. 21,000
+	B.	
+Rs. 22,500
+	C.	
+Rs. 25,300
+	D.	
+Rs. 25,800   Correct Answer: Option C
+[#]
+11.	
+In what ratio must a grocer mix two varieties of tea worth Rs. 60 a kg and Rs. 65 a kg so that by selling the mixture at Rs. 68.20 a kg he may gain 10%?
+	A.	
+3 : 2
+	B.	
+3 : 4
+	C.	
+3 : 5
+	D.	
+4 : 5   Correct Answer: Option A
+[#]
+Direction (for Q.No. 12):
+Each of the questions given below consists of a statement and / or a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statement(s) is / are sufficient to answer the given question. Read the both statements and
+Give answer (A) if the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.
+Give answer (B) if the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.
+Give answer (C) if the data either in Statement I or in Statement II alone are sufficient to answer the question.
+Give answer (D) if the data even in both Statements I and II together are not sufficient to answer the question.
+Give answer(E) if the data in both Statements I and II together are necessary to answer the question.
+12.	
+The area of playground is 1600 m2. What is the perimeter?
+I. 
+It is a perfect square playground.
+ II. 
+It costs Rs. 3200 to put a fence around the playground at the rate of Rs. 20 per metre.
+	A.	
+I alone sufficient while II alone not sufficient to answer
+	B.	
+II alone sufficient while I alone not sufficient to answer
+	C.	
+Either I or II alone sufficient to answer
+	D.	
+Both I and II are not sufficient to answer
+	E.	
+Both I and II are necessary to answer   Correct Answer: Option C
+[#]
+Direction (for Q.No. 13):
+Insert the missing number.
+13.	
+7, 26, 63, 124, 215, 342, (....)
+	A.	
+481
+	B.	
+511
+	C.	
+391
+	D.	
+421     Correct Answer: Option B
+[#]
+Direction (for Q.No. 14):
+Find out the wrong number in the series.
+14.	
+10, 26, 74, 218, 654, 1946, 5834
+	A.	
+26
+	B.	
+74
+	C.	
+218
+	D.	
+654
+	E.	
+1946    Correct Answer: Option D
+[#]
+15.	
+The least among the following is:
+	A.	
+0.2
+	B.	
+1 ÷ 0.2
+	C.	
+0.2
+	D.	
+(0.2)2   Correct Answer: Option D
+[#]
+16.	
+At what time between 5.30 and 6 will the hands of a clock be at right angles?
+	A.	
+43	5	min. past 5
+11
+	B.	
+43	7	min. past 5
+11
+	C.	
+40 min. past 5
+	D.	
+45 min. past 5   Correct Answer: Option B
+[#]
+17.	
+If log10 7 = a, then log10		1		is equal to:
+70
+	A.	
+- (1 + a)
+	B.	
+(1 + a)-1
+	C.	
+a/
+10
+	D.	
+1/
+10a    Correct Answer: Option A   
+[#]
+18.	
+If log10 5 + log10 (5x + 1) = log10 (x + 5) + 1, then x is equal to:
+	A.	
+1
+	B.	
+3
+	C.	
+5
+	D.	
+10   Correct Answer: Option B
+[#]
+19.	
+An automobile financier claims to be lending money at simple interest, but he includes the interest every six months for calculating the principal. If he is charging an interest of 10%, the effective rate of interest becomes:
+	A.	
+10%
+	B.	
+10.25%
+	C.	
+10.5%
+	D.	
+None of these    Correct Answer: Option B
+[#]
+Direction (for Q.No. 20):
+Find out the wrong number in the given sequence of numbers.
+20.	
+36, 54, 18, 27, 9, 18.5, 4.5
+	A.	
+4.5
+	B.	
+18.5
+	C.	
+54
+	D.	
+18   Correct Answer: Option B
+

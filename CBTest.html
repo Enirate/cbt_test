@@ -1,0 +1,357 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<title>Baze University CBT - Test</title>
+		<meta charset="utf-8">
+		
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!--link css-->
+		
+		<link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		<!--favicon-->
+        <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+		<link rel="icon" type="image/gif" href="assets/images/animated_favicon1.gif">
+
+		<script type="text/javascript">
+
+		  	// create a function to start on page load.
+		 	function startTimer(duration, display) {
+		  	// setup var to convert input to int and minute.
+		  	var timer = duration, minutes, seconds;
+		    // function to set interval
+		    setInterval(function () {
+		    	// convert duration params to proper min and sec & divide in loop
+		        minutes = parseInt(timer / 60, 10);
+		        seconds = parseInt(timer % 60, 10);
+		        // ad zero to min or sec if less than 10(using tenary op)
+		        minutes = minutes < 10 ? "0" + minutes : minutes;
+		        seconds = seconds < 10 ? "0" + seconds : seconds;
+		        // fixup the display to time style
+		        display.textContent = minutes + ":" + seconds;
+
+		        // if result is less than zero display duration params
+		        if (--timer < 0) {
+		            timer = duration;
+		        }
+		    }, 1000);
+		}
+
+			window.onload = function () {
+			    var twentyMin = 60 * 20,
+			    display = document.querySelector('.timer');
+			    startTimer(twentyMin, display);
+		};
+	
+
+
+	</script>
+	</head>
+	
+	<body>
+		<div class="container-fluid">
+			<div class="test">
+
+			<!--Header-->
+			<header>
+				<!--logo-->
+						<!--UniName-->
+						<section class="uniName">
+							<h1>Baze University Abuja, Nigeria &nbsp;<br>
+								<small>Computer Based Test (CBT)</small>
+							</h1>
+						</section><!-- end section uniName -->
+
+						<hr>
+
+						<div class="timer">
+							
+						</div>	
+
+			</header>
+
+			<br><br><br>
+		
+			<!--Questions-->
+			<div class="questions">
+
+				<!--Question 1  -->
+			<div> 
+				<p>Question 1.<br>	
+						Direction (for Q.No. 1):
+						Each of these questions is followed by three statements. You have to study the question and all the three statements given<br> to decide whether any information provided in the statement(s) is redundant and can be dispensed with while answering the given question.?<br>
+						1.	
+						What is the area of the given rectangle<br>
+						I. 
+						Perimeter of the rectangle is 60 cm.<br>
+						II. 
+						Breadth of the rectangle is 12 cm.<br>
+						 III. 
+						Sum of two adjacent sides is 30 cm.<br>
+						<input type="checkbox"> &nbsp A.	
+						I only<br>
+						<input type="checkbox"> &nbsp B.	
+						II only<br>
+						<input type="checkbox"> &nbsp C.	
+						I and II only<br>
+						<input type="checkbox"> &nbsp D.	
+						II and III only<br>
+						<input type="checkbox"> &nbsp E.	
+						II and either I or III 
+				</p><hr>
+			</div>
+			 <!-- Question 2-->
+			<div>
+				<p> Question 2.<br>
+						If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?:<br>
+						<input type="checkbox"> &nbsp A.	
+						Sunday<br>
+						<input type="checkbox"> &nbsp B.	
+						Saturday<br>
+						<input type="checkbox"> &nbsp C.	
+						Tuesday<br>
+						<input type="checkbox"> &nbsp D.	
+						Wednesday 
+				</p><hr>
+			</div>
+			<!--Question 3-->
+		<div> 
+			<p> Question 3. <br>
+					Which of the following is not a leap year?<br>
+					<input type="checkbox"> &nbsp A.	
+					700<br>
+					<input type="checkbox"> &nbsp B.	
+					800<br>
+					<input type="checkbox"> &nbsp C.	
+					1200<br>
+					<input type="checkbox"> &nbsp D.	
+					2000 
+			</p><hr>
+		</div>
+				<!--Question 4-->
+		<div>
+			<p> Question 4. <br>
+					It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?<br>
+				<input type="checkbox"> &nbsp A.	
+				Sunday<br>
+				<input type="checkbox"> &nbsp B.	
+				Saturday<br>
+				<input type="checkbox"> &nbsp C.	
+				Friday<br>
+				<input type="checkbox"> &nbsp D.	
+				Wednesday 
+			</p><hr>	
+		</div>
+			<!--Question-->
+		<div>
+			<p> Question 5. <br>
+					A can do a piece of work in 4 hours; B and C together can do it in 3 hours, while A and C together can do it in 2 hours.<br> How long will B alone take to do it?<br>
+					<input type="checkbox"> &nbsp A.	
+					8 hours<br>
+					<input type="checkbox"> &nbsp B.	
+					10 hours<br>
+					<input type="checkbox"> &nbsp C.	
+					12 hours<br>
+					<input type="checkbox"> &nbsp D.	
+					24 hours
+			</p><hr> 
+		</div>
+			<!--Question 6.-->
+		<div>
+			<p> Question 6. <br>
+					 A grocer has a sale of Rs. 6435, Rs. 6927, Rs. 6855, Rs. 7230 and Rs. 6562 for 5 consecutive months. How much sale must he have in the sixth month so that he gets an average sale of Rs. 6500?<br>
+					<input type="checkbox"> &nbsp A.	
+					Rs. 4991<br>
+					<input type="checkbox"> &nbsp B.	
+					Rs. 5991<br>
+					<input type="checkbox"> &nbsp C.	
+					Rs. 6001<br>
+					<input type="checkbox"> &nbsp D.	
+					Rs. 6991    
+			</p><hr>
+		</div>
+				<!--Question 7.-->
+		<div>
+			<p> Question 7. <br>
+					In how many different ways can the letters of the word 'CORPORATION' be arranged so that the vowels always come together?<br>
+					<input type="checkbox"> &nbsp A.	
+					810<br>
+					<input type="checkbox"> &nbsp B.	
+					1440<br>
+					<input type="checkbox"> &nbsp C.	
+					2880<br>
+					<input type="checkbox"> &nbsp D.	
+					50400<br>
+					<input type="checkbox"> &nbsp E.	
+					5760      
+			</p><hr>
+		</div>
+				<!--Question 8-->
+		<div>
+			<p> Qustion 8.<br>
+					Find out the wrong number in the given sequence of numbers.?<br>	
+					36, 54, 18, 27, 9, 18.5, 4.5<br>
+					<input type="checkbox"> &nbsp A.	
+					4.5<br>
+					<input type="checkbox"> &nbsp B.	
+					18.5<br>
+					<input type="checkbox"> &nbsp C.	
+					54<br>
+					<input type="checkbox"> &nbsp D.	
+					18   
+			</p><hr>
+		</div>
+				<!--Question 9-->
+		<div>
+			<p> Question 9. <br>
+				If log10 5 + log10 (5x + 1) = log10 (x + 5) + 1, then x is equal to:<br>
+				<input type="checkbox"> &nbsp A.	
+				1<br>
+				<input type="checkbox"> &nbsp B.	
+				3<br>
+				<input type="checkbox"> &nbsp C.	
+				5<br>
+				<input type="checkbox"> &nbsp D.	
+				10  
+			</p><hr>
+		</div>
+					<!--Question 10-->
+		<div>
+			<p> Question 10.<br>
+				Two tailors X and Y are paid a total of Rs. 550 per week by their employer. If X is paid 120 percent of the sum paid to Y, how much is Y paid per week?<br>
+				<input type="checkbox"> &nbsp A.	
+				Rs. 200<br>
+				<input type="checkbox"> &nbsp B.	
+				Rs. 250<br>
+				<input type="checkbox"> &nbsp C.	
+				Rs. 300<br>
+				<input type="checkbox"> &nbsp D.	
+				None of these    
+			</p><hr>
+		</div>
+					<!--Question 11.-->
+		<div>
+			<p> Question 11. <br>
+				When a plot of land is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?<br>
+				<input type="checkbox"> &nbsp A.	
+				Rs. 21,000<br>
+				<input type="checkbox"> &nbsp B.	
+				Rs. 22,500<br>
+				<input type="checkbox"> &nbsp C.	
+				Rs. 25,300<br>
+				<input type="checkbox"> &nbsp D.	
+				Rs. 25,800
+			</p><hr>
+		</div>
+				<!--Question 12-->
+		<div>
+			<p> Question 12.<br>
+				In what ratio must a grocer mix two varieties of tea worth Rs. 60 a kg and Rs. 65 a kg so that by selling the mixture at Rs. 68.20 a kg he may gain 10%?<br>
+				<input type="checkbox"> &nbsp A.	
+				3 : 2<br>
+				<input type="checkbox"> &nbsp B.	
+				3 : 4<br>
+				<input type="checkbox"> &nbsp C.	
+				3 : 5<br>
+				<input type="checkbox"> &nbsp D.	
+				4 : 5  
+			</p><hr>
+		</div>
+				<!--Question 13-->
+		<div>
+			<p> Question 13.<br>
+				Insert the missing number.<br>	
+				7, 26, 63, 124, 215, 342, (....)<br>
+				<input type="checkbox"> &nbsp A.	
+				481<br>
+				<input type="checkbox"> &nbsp B.	
+				511<br>
+				<input type="checkbox"> &nbsp C.	
+				391<br>
+				<input type="checkbox"> &nbsp D.	
+				421    
+			</p><hr>
+		</div>
+				<!--Question 14-->
+		<div>
+			<p> Question 14.<br>
+				Find out the wrong number in the series.?<br>	
+				10, 26, 74, 218, 654, 1946, 5834<br>
+				<input type="checkbox"> &nbsp A.	
+				26<br>
+				<input type="checkbox"> &nbsp B.	
+				74<br>
+				<input type="checkbox"> &nbsp C.	
+				218<br>
+				<input type="checkbox"> &nbsp D.	
+				654<br>
+				<input type="checkbox"> &nbsp E.	
+				1946   
+			</p><hr>
+		</div>
+				<!--Question 15-->
+		<div>
+			<p> Question 15. <br>
+				An automobile financier claims to be lending money at simple interest, but he includes the interest every six months for calculating the principal. If he is charging an interest of 10%, the effective rate of interest becomes?:<br>
+				<input type="checkbox"> &nbsp A.	
+				10%<br>
+				<input type="checkbox"> &nbsp B.	
+				10.25%<br>
+				<input type="checkbox"> &nbsp C.	
+				10.5%<br>
+				<input type="checkbox"> &nbsp D.	
+				None of these
+			</p>
+		</div>
+			
+			<br>
+
+			<div class="instAgain">
+				<h4> <i>Please take note of the following instructions once again:</i>
+					<ul>
+						<li>Answer all possible questions before submitting.</li>
+						<li>Once the test has been submitted, no opportunity will be given to answer any  unanswered questions.</li>
+					</ul>
+				</h4>
+
+			</div>
+
+			<br><br>
+		
+		<center>
+			<a href="result.html">
+				<button class="btn btn-primary btn-lg">Submit
+				</button>
+			</a>
+		</center>
+				
+			</div>
+
+			<br><br>
+
+			
+
+			
+			
+
+			<!-- <footer>
+				<center>
+				<p>Copyright: &copy; Baze University, Nigeria &nbsp; &nbsp; Powered By: Projaro Trainees </p>
+				
+				</center>
+			</footer> -->
+
+			</div><!-- end div test -->
+		</div><!-- close container div -->
+
+
+		<!--link scripts-->
+		<script src="assets/js/jquery-3.1.0.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"></script>')
+        </script>
+        <script src="assets/js/main.js"></script>
+        <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+	</body>
+</html>

@@ -1,0 +1,301 @@
+/*====================================
+CSS
+====================================*/ 
+
+/*====================================
+instructions page
+====================================*/ 
+
+#instructions{
+	padding-bottom:70px;
+	text-align: left;
+	width: 300px; 
+	line-height: 30px;
+	color:white;
+}
+
+#starttest{
+	margin-top: 30px;
+	margin-left: 80px;
+	background-color: #fc524a;
+	border: none;
+}
+
+#instructions span{
+	color: rgba(255, 0, 0, 0.6);
+}
+
+#instructions h4{
+	color:white;
+}
+
+.welcome{
+	color: white;
+}
+#wel{
+	margin-left: 180px;
+	color:#a2a2a2;
+}
+
+#line
+{
+	width:1000px;
+	text-align: center;
+}
+
+h4
+{
+	color: white;
+}
+
+
+
+/*====================================
+footer
+====================================*/ 
+
+footer{
+	background-color: rgba(0, 0, 0, 0.5);
+	color: gray;
+	height: 50px;
+	/*margin-top: -30px;*/
+	margin-top: 170px;
+}
+
+footer p{
+	padding-top: 10px;
+}
+
+#foot{
+	margin-top:-5px;
+}
+
+/*====================================
+images & Header
+====================================*/ 
+
+#logo{
+	height: 120px;
+	width:120px;
+}
+
+.logo{
+	padding: 20px 20px 0px 0px;
+}
+
+.uniName{
+	position: relative;
+	float:right;
+	font-family:'aleo-regular-webfont';
+}
+.uniName small{
+	margin-left: 20px;
+}
+
+.logo{
+	position: relative;
+	float: left;
+}
+
+header{
+	color:#fff;
+}
+
+
+/*====================================
+@fontface
+====================================*/
+ @font-face{
+	  font-family:'aleo-regular-webfont';
+		src: url(../fonts/aleo-regular-webfont.eot); /* IE9 Compat Modes*/
+	  
+		src: url(../fonts/aleo-regular-webfont.eot?#iefix)
+			format(embedded-opentype), /*IE6-IE8*/
+	 
+		url(../fonts/aleo-regular-webfont.woff2)
+			format(woff2), /*Super Modern Browsers*/
+	  
+		url(../fonts/aleo-regular-webfont.woff)
+			format(woff), /*Pretty Modern Browsers*/
+		
+		url(../fonts/aleo-regular-webfont.ttf)
+			format(truetype), /*Safari, Android, iOS*/
+	  
+		url(../fonts/aleo-regular-webfont.svg#svgaleo-regular-webfont)
+			format(svg); /*Legacy iOS*/
+	  
+  }
+
+   @font-face{
+	  font-family:'AlegreyaSansSC-Light';
+		src: url(../fonts/AlegreyaSansSC-Light.eot); /* IE9 Compat Modes*/
+	  
+		src: url(../fonts/AlegreyaSansSC-Light.eot?#iefix)
+			format(embedded-opentype), /*IE6-IE8*/
+	 
+		url(../fonts/AlegreyaSansSC-Light.woff2)
+			format(woff2), /*Super Modern Browsers*/
+	  
+		url(../fonts/AlegreyaSansSC-Light.woff)
+			format(woff), /*Pretty Modern Browsers*/
+		
+		url(../fonts/AlegreyaSansSC-Light.ttf)
+			format(truetype), /*Safari, Android, iOS*/
+	  
+		url(../fonts/AlegreyaSansSC-Light.svg#svgAlegreyaSansSC-Light)
+			format(svg); /*Legacy iOS*/
+	  
+  }
+
+
+
+  /*====================================
+  Test Page
+  ====================================*/ 
+  .test{
+  	background-image: url(../images/logoBazeWatermark.png);
+  	background-repeat: no-repeat; 
+  	background-attachment: fixed;
+  	background-position: center;
+  	padding-bottom: 500px;
+  	color: default;
+  }
+
+  .test footer{
+  	margin-top: 700px;
+
+  }
+
+  .test .uniName h1{
+  	color: black;
+  	float: none;
+  	padding-top: 50px;
+  }
+
+  .test .uniName {
+  	position: relative;
+  	float:none;
+
+  }
+
+  .questions{
+  	padding: 0px 120px;
+  }
+
+  .timer{
+  	width: 9%;
+  	height: 45px;
+  	background-color: rgba(1, 20, 62, 0.1);
+  	margin-left: 87%;
+  	border:1px solid #013dd7; 
+  	border-radius:5px;
+  	color: black;
+  	text-align: center;
+  	font-size: 30px;
+  	position: fixed;
+  }
+
+  .instAgain {
+  	text-decoration: none;
+  	color: gray;
+  	padding: 10px;
+  	font-size: 16px;
+  	font-family: "AlegreyaSansSC-Light";
+  }
+
+	.instAgain li a{
+		text-decoration: none;
+	}
+
+  /*====================================
+  Admin Page
+  ====================================*/ 
+
+  /*====================================
+  .col-md-2
+  ====================================*/ 
+  .col-md-2{
+  	background-color:#39435C;
+  	/*height: 500px;*/
+  	/*#283744--header*/
+  	color: white;
+  	padding: none;
+  }
+
+  .col-md-2 > header {
+  	text-align: center;
+  	background-color: #283744;
+  	font-size: 20px;
+    line-height: 50px;
+    font-weight: 500;
+    height: 50px;
+    display: block;
+    margin: 0px -15px;
+  } 
+
+  
+  #imgs{
+  	height: 55px;
+  	width: 55px;
+  	padding-right: 5px;
+  }
+
+
+  .pull-leftinfo{
+	display: inline;
+
+	/*padding-left: 1px;*/
+  }
+
+  .pull-leftinfo > small{
+  	color: gray;
+  }
+ .userPanel {
+ 	padding: 10px;
+ }
+
+ #srch-term{
+ 	background-color: rgba(0, 0, 0, 0.1);
+ }
+
+ button[type:submit]{
+ 	background-color: rgba(0, 0, 0, 0.1);
+ }
+
+ ul>li a{
+ 	text-decoration: none;
+
+ }
+
+ /*====================================
+ col-md-10
+ ====================================*/ 
+
+.col-md-10 {
+  	background-color:#f0f3f4;
+  	height: 500px;
+  	color: ;
+  	margin: none;
+  }
+
+ .col-md-10 > header {
+	background-color: white;
+	margin: none
+ }
+
+ .col-md-10 button{
+ 	margin: 34px;
+ }
+
+ /*====================================
+ Admin LogIn
+ ====================================*/ 
+
+  .adminLogIn {
+ 	background-image: url(../images/img8Main.jpg);
+	color: #fff;
+	margin: 0px auto;
+	font-family:'aleo-regular-webfont';
+
+ }
+

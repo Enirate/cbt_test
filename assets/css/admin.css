@@ -1,0 +1,100 @@
+/*====================================
+  Admin Page
+  ====================================*/ 
+
+  /*====================================
+  .col-md-2
+  ====================================*/ 
+  .col-md-2{
+  	background-color:#39435C;
+  	/*height: 500px;*/
+  	/*#283744--header*/
+  	color: white;
+  	padding: none;
+  }
+
+  .col-md-2 > header {
+  	text-align: center;
+  	background-color: #283744;
+  	font-size: 20px;
+    line-height: 50px;
+    font-weight: 500;
+    height: 50px;
+    display: block;
+    margin: 0px -15px;
+  } 
+
+  
+  #imgs{
+  	height: 55px;
+  	width: 55px;
+  	padding-right: 5px;
+  }
+
+
+  .pull-leftinfo{
+	display: inline;
+
+	/*padding-left: 1px;*/
+  }
+
+  .pull-leftinfo > small{
+  	color: gray;
+  }
+ .userPanel {
+ 	padding: 10px;
+ }
+
+ #srch-term{
+ 	background-color: rgba(0, 0, 0, 0.1);
+ }
+
+ button[type:submit]{
+ 	background-color: rgba(0, 0, 0, 0.1);
+ }
+
+ ul>li a{
+ 	text-decoration: none;
+
+ }
+
+ /*====================================
+ col-md-10
+ ====================================*/ 
+
+.col-md-10 {
+  	background-color:#f0f3f4;
+  	height: 500px;
+  	color: ;
+  	margin: none;
+  }
+
+ .col-md-10 > header {
+	background-color: white;
+	margin: none
+ }
+
+ .col-md-10 button{
+ 	margin: 34px;
+ }
+
+ /*====================================
+ Admin LogIn
+ ====================================*/ 
+
+ 
+
+ /*.adminLogIn {
+ 	background-image: url(../images/img8Main.jpg);
+	color: #fff;
+	margin: 0px auto;
+	font-family:'aleo-regular-webfont';
+
+ }*/
+body .adminLogIn{
+  background-image: url(../images/img8Main.jpg);
+  color: #fff;
+  margin: 0px auto;
+  font-family:'aleo-regular-webfont';
+
+}
